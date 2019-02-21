@@ -1,0 +1,24 @@
+import "something";
+
+struct person {
+  var name: string;
+}
+
+func greet(name): void {
+
+  var stru: person;
+
+
+  var power = 2 ** 4;
+  var power = pow(2, 4);
+
+  if (name == "fabian") {
+
+  }
+
+  // for loop
+  let count: int = 100;
+  for (i: int, i < count, i++) {
+
+  }
+}
